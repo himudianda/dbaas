@@ -11,3 +11,4 @@ RABBITMQ_DEFAULT_BINDING_KEY = "notifications.*"
 
 SAMPLE_DATA_INPUT_FILE = "trove.events"
 JSON_LOG_OUTPUT_FILE = "/tmp/dbaas_logs.json"
+NAGIOS_LOG_OUTPUT_FILE = "/tmp/dbaas_alerts.logs"
